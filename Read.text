@@ -1,0 +1,14 @@
+For virtual environment to create
+py -m venv virtualenv
+
+To activate
+. virtualenv/Scripts/activate
+Github
+Godzilla127
+
+Email
+hanjiranjan127@gmail.com
+
+
+git config --global user.email hanjiranjan127@gmail.com
+git config --global user.name Godzilla127
